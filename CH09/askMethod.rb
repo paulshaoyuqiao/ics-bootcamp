@@ -17,7 +17,3 @@ def ask question
     puts 'Please answer "yes" or "no".'
   end
 end
-
-ask('Do you like chocolate?')
-ask('Do you like pizza?')
-ask('Do you like marsh-mellow?')
